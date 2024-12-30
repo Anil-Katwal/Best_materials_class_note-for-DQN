@@ -1,0 +1,23 @@
+CNN- image multimedia
+RNN- Acc. Training 
+ANN- for approximation 
+Filter (kernel)
+In charge to decide ti feature
+Filter size is the hyper parameter..
+(Filter size should not be small).
+Number of the convulation layer is also hyper parameter,
+
+Pooling :
+To reduce the dimensionality
+Eliminates nouse fron data
+. Flatten and dense:
+Flattening convert n dimension into a readable vector(tensor flow)
+Converting from higher dimensions image to 1 dimensions is called accelerating.
+GPU Architecture:
+Streaming Multiprocessor(SM)
+CUDA cores per SM.
+
+Python --------keras--------tf------------cuda-------cpu(50%),GPU(50%)---TF
+
+
+
